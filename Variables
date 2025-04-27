@@ -1,0 +1,9 @@
+value = "3"
+print (value + value)
+value = 3
+print (value + value)
+
+value = "3"
+print (value + value)
+value = int(value)
+print (value + value)
