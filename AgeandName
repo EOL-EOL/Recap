@@ -1,0 +1,16 @@
+#A program to calculate your age in various formats
+name = input("What is your name?")
+age = int(input("How old are you in years? "))
+months = age*12
+days = age*365
+#add a variable for age in weeks
+#add a variable for age centuries
+print("Hello " + name + " Thank you for answering my questions")
+print("You are around " + str(months) + " months old.")
+print("You are around " + str(days) + " days old.")
+#add a print statement for weeks old
+#add a print statement for weeks old
+#now say Goodbye 3 times using a for loop
+#for .....
+    print("Goodbye " + str(name))
+input("\nPress ENTER to exit program")
