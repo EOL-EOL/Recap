@@ -1,12 +1,14 @@
+
+#Q1
 for counter in range(10):
     print(counter)
+#run above code then change it to Print ALL numbers from 0 - 10
 
+#Q2
 for counter in range(5,10):
 	print(counter)
+#run above code then change it to Print ALL numbers from 5 - 10
 
-for counter in range(11):
-    print(counter)
-
-for counter in range(26):
-    print(counter)
+#Q3
+#Write a for loop to print all of your birthdays to date
 
