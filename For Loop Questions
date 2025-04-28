@@ -1,7 +1,7 @@
 
 #Q1
 for counter in range(10):
-    print(counter)
+	print(counter)
 #run above code then change it to Print ALL numbers from 0 - 10
 
 #Q2
